@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Utkarsh  Srivastava",
+      "email": "kivicor330@deenur.com",
+      "contact": "9616993485",
+      "password": "Aman123",
+      "id": "bc3e"
+    },
+    {
+      "id": "b043",
+      "name": "Utkarsh  Srivastav",
+      "email": "us9824657@gmail.com",
+      "contact": "9336133023",
+      "password": "Aman123"
+    },
+    {
+      "id": "591d",
+      "name": "Utkarsh  Srivastava",
+      "email": "us9824657@gmail.com",
+      "contact": "963221478520",
+      "password": "Aman123"
+    }
+  ]
+}
