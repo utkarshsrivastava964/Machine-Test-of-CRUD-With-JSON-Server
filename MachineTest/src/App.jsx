@@ -10,15 +10,18 @@ import Update from './components/Update'
 const App = () => {
   return (
     <>
-      <BrowserRouter>
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<View />} />
-          <Route path='/register' element={<Register/>} />
-          <Route path='/edit' element={<Update/>} />
-        </Routes>
-      </BrowserRouter>
-      
+      <div className="container">
+        <div className="row">
+          <BrowserRouter>
+            <Navbar />
+            <Routes>
+              <Route path="/" element={<View />} />
+              <Route path='/register' element={<Register />} />
+              <Route path='/edit' element={<Update />} />
+            </Routes>
+          </BrowserRouter>
+        </div>
+      </div>
     </>
   )
 }
